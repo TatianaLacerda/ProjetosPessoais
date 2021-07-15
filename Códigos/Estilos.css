@@ -1,0 +1,237 @@
+body {
+
+
+  background-image: linear-gradient(to right, white, #F9C743);
+  margin:0px;
+  padding:0px;
+
+}
+
+
+
+
+header {
+
+width:100%;
+height: 300px;
+margin: 0px;
+overflow: hidden;
+
+
+}
+
+#imgcentral {
+ 
+  margin-left: 50px;
+  
+  
+}
+
+#nav1 {
+position: relative;
+width:100%;
+height: 50px;
+margin-top: 2px;
+background-color: black;
+display: inline-block;
+
+}
+
+.a1 {
+
+
+padding-left: 20px;
+
+text-decoration: none;
+font-family: 'Coming Soon', cursive;
+font-weight: 900;
+color: #F9C743;
+
+}
+
+
+
+.li1 {
+
+
+
+  display: inline-block;
+}
+
+#ul1 {
+
+  margin-left: 750px;
+ }
+
+
+
+main {
+
+width: 100%;
+  height: 1000px;
+margin-top: 100px;
+
+
+
+
+}
+
+#DIV1 {
+margin-top: 200px;
+margin-left: 100px;
+width: 600px;
+height: 250px;
+
+background-image: linear-gradient(to right, white, #F9C743);
+display: flex;
+ 
+
+
+
+}
+
+
+
+#img2 {
+
+/* Para que o texto fique lado a lado da imagem, 
+foi preciso utilizar a propriedade de display: inline-block tanto
+na img quanto no texto. Outra opção é: foi preciso pôr no container, ou seja, 
+na DIV que abriga img e texto o display flex e align-items. */
+background-size: cover;
+border: 5px solid rgb(158, 67, 2);
+
+
+  
+}
+
+.aHover:hover {
+
+
+
+background-color: rgb(233, 227, 227);
+
+
+
+}
+
+.aHover {
+
+  color: #732002;
+  text-decoration: none;
+
+}
+
+#TituloTexto2 {
+
+padding-left: 20px;
+
+
+
+  
+  color: #732002;
+  
+
+}
+
+p {
+font-family: 'Coming Soon', cursive;
+  
+  font-size: medium;
+}
+
+#DIV2 {
+margin-top: 100px;
+margin-left: 100px;
+width: 600px;
+height: 250px;
+
+background-image: linear-gradient(to right, white, #F9C743);
+display: flex;
+}
+
+
+#DIV3 {
+margin-top: 100px;
+margin-left: 100px;
+width: 600px;
+height: 250px;
+
+background-image: linear-gradient(to right, white, #F9C743);
+display: flex;
+}
+
+footer {
+
+font-family: 'Coming Soon', cursive;
+font-size: 14px;
+
+width: 100%;
+height: 250px;
+background-color: rgb(0, 0, 0);
+display: flex;
+
+ }
+
+ 
+
+ 
+
+.lifinal {
+
+padding-top: 2px;
+font-size: medium;
+display: block;
+
+
+  
+}
+
+.ulfinal {
+
+width: 70px;
+height: 230px;
+margin-left: 5px;
+padding: none;
+
+
+
+  
+ }
+
+ #divfooter {
+
+width: 400px;
+height: 180px;
+margin-top: 50px ;
+margin-left: 100px;
+
+
+color: #f3f2ed;
+display: inline-block;
+
+
+ }
+ 
+
+
+ #footer3 {
+
+width: 450px;
+height: 249px;
+margin-left: 250px;
+color: #f3f2ed;
+display: inline-block;
+
+
+ }
+ small {
+
+  font-weight: bolder;
+
+  color:#F9C743;
+ }
+
+ 
+
+  
